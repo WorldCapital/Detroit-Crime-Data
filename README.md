@@ -24,6 +24,3 @@ This data reflects reported criminal offenses that have occurred in the City of 
 #### latitude: Number
 #### longitude: Number
 #### oid: Unique ID  
-
-## City of Detroit Open Data Portal
-https://data.detroitmi.gov/datasets/rms-crime-incidents?geometry=-83.505%2C42.264%2C-82.693%2C42.442
